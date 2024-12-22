@@ -55,5 +55,5 @@ This project is licensed under the MIT License.
 
 ## Credits
 
-This project was created by Anshul Kumar.
+* This project was created by Anshul Kumar.
 * Email : anshulkumar1@outlook.in
