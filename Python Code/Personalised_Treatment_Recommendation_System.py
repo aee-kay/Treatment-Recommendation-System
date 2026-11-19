@@ -33,6 +33,7 @@ medications = pd.read_csv('medications.csv')
 diets = pd.read_csv('diets.csv')
 symptom_severity = pd.read_csv('Symptom-severity.csv')
 
+This is a testing comment
 
 
 """# **3. Analysing Data**"""
